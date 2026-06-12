@@ -1,8 +1,0 @@
-Coloque aqui as fotos da surpresa:
-
-- foto-1.jpg
-- foto-2.jpg
-- foto-3.jpg
-- foto-4.jpg
-- foto-5.jpg
-- foto-6.jpg
